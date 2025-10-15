@@ -5,7 +5,7 @@
 <h3 align="center">A student in the Framework-Based Software Design and Development course!</h3>
 <img align="right" alt="Myself" width="400" src="Me.jpg">
 
-<h3>My expectation</h3>
+<h3>My expectation for this Course</h3>
 
  - I hope to learn a lot about modern software maintenance practices and how to work with legacy systems
 
