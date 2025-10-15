@@ -6,12 +6,18 @@
 <img align="right" alt="Myself" width="400" src="Me.jpg">
 
 <h3>My expectation</h3>
-- I hope to learn a lot about modern software maintenance practices and how to work with legacy systems.
-- Learnt how keep a software well-maintained and evolving through legacy systems
-- Able to apply suitable techniques and tools for performing software maintenance activities in my future career.
-- Have the knowledge to use the strategies for evolving a legacy software system.
-- Can distinguishes between software maintenance, maintenance processes and activities.
-- Shoulc be able to tell the difference of each main categories of maintenance and techniques that are associated with them.
+ - I hope to learn a lot about modern software maintenance practices and how to work with legacy systems
 
-You can view my personalized GitHub profile [[here, insert link to your github profile](https://github.com/Nipz652)]
+ - Learnt how keep a software well-maintained and evolving through legacy systems
+
+ - Able to apply suitable techniques and tools for performing software maintenance activities in my future career
+
+ - Have the knowledge to use the strategies for evolving a legacy software system
+
+ - Can distinguishes between software maintenance, maintenance processes and activities
+
+ - Shoulc be able to tell the difference of each main categories of maintenance and techniques that are associated with them
+
+
+You can view my personalized GitHub profile [[My Personal GitHub Profile](https://github.com/Nipz652)]
 
