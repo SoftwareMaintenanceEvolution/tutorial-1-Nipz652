@@ -6,6 +6,7 @@
 <img align="right" alt="Myself" width="400" src="Me.jpg">
 
 <h3>My expectation</h3>
+
  - I hope to learn a lot about modern software maintenance practices and how to work with legacy systems
 
  - Learnt how keep a software well-maintained and evolving through legacy systems
