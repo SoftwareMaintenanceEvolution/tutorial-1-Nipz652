@@ -3,11 +3,15 @@
 </div>
 <h1 align="center">Hi 👋, I'm Abdul Hanif Bin Abdul Aziz</h1>
 <h3 align="center">A student in the Framework-Based Software Design and Development course!</h3>
-<img align="right" alt="Coding" width="400" src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif">
+<img align="right" alt="Myself" width="400" src="Me.jpg">
 
-My expectation is to learn a lot about modern software maintenance practices and how to work with legacy systems.
+<h3>My expectation</h3>
+- I hope to learn a lot about modern software maintenance practices and how to work with legacy systems.
+- Learnt how keep a software well-maintained and evolving through legacy systems
+- Able to apply suitable techniques and tools for performing software maintenance activities in my future career.
+- Have the knowledge to use the strategies for evolving a legacy software system.
+- Can distinguishes between software maintenance, maintenance processes and activities.
+- Shoulc be able to tell the difference of each main categories of maintenance and techniques that are associated with them.
 
-![My Image](image.jpg)
-
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile [[here, insert link to your github profile](https://github.com/Nipz652)]
 
