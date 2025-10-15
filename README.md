@@ -20,5 +20,5 @@
  - Shoulc be able to tell the difference of each main categories of maintenance and techniques that are associated with them
 
 
-You can view my personalized GitHub profile [[My Personal GitHub Profile](https://github.com/Nipz652)]
+Please view my presonalized GitHub [[here](https://github.com/Nipz652)]
 
